@@ -13,7 +13,8 @@ Senior Frontend Engineer & Technical Lead with 15+ years of experience. I bridge
 - **AI:** Strategic integration of GitHub Copilot and custom AI workflows
 
 ## Notable Projects
-- [Tateru CLI](https://github.com/danielsitek/tateru-cli) - Open-source static website generation tool.
+- [@danielsitek/eslint-stats](https://www.npmjs.com/package/@danielsitek/eslint-stats) – A modernized, zero-dependency ESLint statistics generator, used for CI/CD monitoring. Rewritten in TypeScript for high-performance reporting.
+- [Tateru CLI](https://github.com/danielsitek/tateru-cli) - Open-source static website generation tool built on TypeScript and Twig JS.
 - [create-tateru-cli](https://github.com/danielsitek/tateru-create-tateru-cli) – Scaffolding tool to instantly launch projects with pre-defined configurations.
 - [gulp-tateru-cli](https://github.com/danielsitek/gulp-tateru-cli) – Gulp plugin for seamless integration into automated build processes.
 - [DGP Cookie Consent](https://github.com/danielsitek/dgp-cookie-consent) - GDPR compliant WebComponent in modern TypeScript.
